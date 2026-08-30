@@ -1,16 +1,14 @@
 ## Hi there 👋
-
-<!--
-**SteveBro62/SteveBro62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a bachelor student at the ISEAI (Immersive Software Engineering and AI) programme at the University of Jyväskylä
+Some of my skills : C++, Python, Godot, VS code
+### 🏆 Algorithm & Olympiad Background
+* **International Informatics Contests:** Multi-time bronze medalist at **RMI** (Romanian Master of Informatics) & **Shumen International Tournament**.
+* **National Olympiad in Informatics (NOI):** Multi-time silver medalist 
+* **Core Strengths:** Advanced data structures, graph theory, dynamic programming, and algorithmic optimization, backtracking enjoyer.
+### Hobbies
+* **Bouldering &#129495;
+* **Running &#127939;
+* **Video games 🎮
+* <b>Contact</b>
+  Personal email : aa.stefanioan@gmail.com
+  Student email : stefan.i.petrescu@student.jyu.fi
