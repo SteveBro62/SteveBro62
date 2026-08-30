@@ -8,7 +8,8 @@ I am a bachelor student at the ISEAI (Immersive Software Engineering and AI) pro
 
 ### 🏆 Algorithm & Olympiad Background
 * **International Informatics Contests:** Multi-time bronze medalist at **RMI** (Romanian Master of Informatics) & **Shumen International Tournament**.
-* **National Olympiad in Informatics (NOI):** Multi-time silver medalist 
+* **National Olympiad in Informatics (NOI):** Multi-time silver medalist
+* **National Olympiad in Mathematics (MOI):** Managed to get a bronze medal
 * **Core Strengths:** Advanced data structures, graph theory, dynamic programming, and algorithmic optimization, backtracking enjoyer.
 ### Hobbies
 * Bouldering &#129495;
